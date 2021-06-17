@@ -8,11 +8,11 @@ server:
 spring:
   application:
     name: MICRO-SERVER-DEV
-  profiles: dev #开发环境
+  profiles: dev 
 
 server:
   port: 3356
 spring:
   application:
     name: MICRO-SERVER-TEST
-  profiles: test #测试环境
+  profiles: test 
